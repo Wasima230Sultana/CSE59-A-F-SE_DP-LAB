@@ -14,8 +14,6 @@ This document provides the Software Requirements Specification (SRS) for the Sha
 ## Version History
 
 -   **Version 1.0** – Initial Draft.
--   **Version 1.1** – Added AI features and reporting modules.
--   **Version 1.2** – Refined system models and scalability requirements.
 
 ----------
 
