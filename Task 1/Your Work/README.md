@@ -278,49 +278,9 @@ ShadowPrep is a standalone web application that integrates with AI services, spe
 ----------
 
 # 4. System Models
-   <img src="images/shadowPrep.png" />
-> -   **CONTEXT DIAGRAM**  
->     Shows interaction between users, admins, AI services, and external APIs.
-
-----------
-
-> -   **ACTIVITY DIAGRAM**  
->     Represents workflows such as interview practice and AI evaluation.
-
-----------
-
-> -   **USE CASE DIAGRAMS**  
->     Includes:
-> -   User Use Cases
-> -   Admin Use Cases
-> -   Resume Analysis Use Cases
-> -   Mock Interview Use Cases
-
-----------
-
-> -   **SEQUENCE DIAGRAM**  
->     Describes the process of conducting a mock interview and generating feedback.
-
-----------
-
-> -   **ENTITY-RELATIONSHIP DIAGRAM**  
->     Includes entities such as:
-> -   User
-> -   Interview
-> -   Question
-> -   Resume
-> -   Feedback
-> -   Performance Report
-
-----------
-
-> -   **STATE DIAGRAM**  
->     Represents interview states:
-> -   Scheduled
-> -   Active
-> -   Completed
-> -   Evaluated
-> -   Cancelled
+  
+> -   **CONTEXT DIAGRAM**
+> -    <img src="images/shadowPrep.png" />
 
 ----------
 
