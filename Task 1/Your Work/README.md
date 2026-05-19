@@ -278,7 +278,7 @@ ShadowPrep is a standalone web application that integrates with AI services, spe
 ----------
 
 # 4. System Models
-
+   <img src="images/shadowPrep.png" />
 > -   **CONTEXT DIAGRAM**  
 >     Shows interaction between users, admins, AI services, and external APIs.
 
